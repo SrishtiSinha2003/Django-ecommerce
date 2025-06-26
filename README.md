@@ -1,6 +1,5 @@
 # ECOMMERCE
-![developer](https://img.shields.io/badge/Developed%20By%20%3A-Sumit%20Kumar-red)
----
+A Website made with Django and python.
 ## screenshots
 ### Admin Dashboard
 ![dashboard snap](https://github.com/sumitkumar1503/ecommerce/blob/master/static/screenshots/adminHomepage.png?raw=true)
